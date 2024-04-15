@@ -13,7 +13,6 @@ Our camera systems are controlled and processed through an intuitive and powerfu
 The outstanding quality and high reliability make our products unique on the market.
 
 ## Intent
-With our GitHub repositories we want to provide all our customers easy to use example programs for our SDK packages.
+With our GitHub repositories, we want to support all our customers with easy-to-use sample programs for our SDK packages.
 
-We think, providing example code here as GitHub repositories is the most intuitive way software developers are used to.  
-Additionally, we want to give the community the ability to fork and modify those examples to their need while keeping track of latest incoming changes.
+By providing sample code in the form of GitHub repositories, we want to use the most intuitive way that software developers are used to.
