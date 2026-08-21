@@ -1,4 +1,4 @@
-# Excelitas PCO GmbH
+# Excelitas - PCO
 Pioneering in Cameras and Optoelectronics (PCO) has been our shared philosophy since our establishment in 1987.
 Starting with image-intensified cameras, followed by the co-invention of the groundbreaking sCMOS sensor technology, PCO greatly surpassed the imaging performance standards of the day.
 Acquired by Excelitas in 2021, our PCO camera portfolio continues to forge ahead as leaders in digital imaging innovation across diverse applications such as scientific and industrial research, automotive testing, quality control, and metrology.
